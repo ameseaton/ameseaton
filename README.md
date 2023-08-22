@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ameseaton
+- 👋 Hi, I’m Ami Eaton, @ameseaton
 - 👀 I’m interested in React/javascript/typescript, great UIs
 - 🌱 I’m currently learning how to rebuild 1973 Honda CB 350F carburetors... 
 - 💞️ I’m looking to collaborate on Highnote!
